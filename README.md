@@ -1,2 +1,2 @@
-# toon_tank
+# Tanks
 Simple Unreal tanks game
